@@ -68,3 +68,10 @@
     transform: translateY(-2px);
   }
 }
+
+.no-select {
+  user-select: none;       /* estándar */
+  -webkit-user-select: none; /* Chrome, Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* IE/Edge antiguo */
+}

@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Diego Contreras',
-  subtitle: 'I\'m Semi-Senior Software Developer',
+  subtitle: 'I\'m Senior Software Developer',
   cta: 'Know more!',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I\'m a Semi-Senior Software Developer with a solid experience developing different software solutions for different clients in Peru.I have had the opportunity to work in products focused on the business and electrical sector',
+  paragraphOne: 'I\'m a Senior Software Developer with a solid experience developing different software solutions for different clients in Peru.I have had the opportunity to work in products focused on the business and electrical sector',
   paragraphTwo: 'I have worked with diferents tecnologies and providers throughout my career profesional',
   paragraphThree: 'I\'m a fast learner who loves researching the latest javaScript trends. I\' a excellent team worker and leader',
   resume: 'https://www.linkedin.com/in/diego-contreras-felix-7708a0108/', // if no resume, the button will not show up
